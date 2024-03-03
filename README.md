@@ -1,2 +1,7 @@
-# STABLE-TEA
-TEA - STABLE-MOON
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x1b39981f6BEc9Ed066D416a07BF3C8FB3CB0c3B9'
+quorum: 1
+
